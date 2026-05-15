@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Mak 👋
 
-<!--
-**majkaelaholt/majkaelaholt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Administrative Fleet Coordinator in the trucking industry with experience in transportation operations, compliance, and documentation management. Currently studying Supply Chain & Operations Management while developing technical skills in R, SQL, and data visualization.
 
-Here are some ideas to get you started:
+This portfolio highlights coursework, projects, and analytical work focused on problem-solving, reporting, and operational efficiency.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- 🚛 Working in transportation and fleet operations
+- 📚 Studying Supply Chain & Operations Management
+- 📊 Learning R, SQL, and data visualization through coursework and projects
+- 🧠 Interested in problem solving, organization, and operational efficiency
+- 🎮 Gamer and longtime fan of story-driven and simulation games
+
+## Projects
+### None yet :)
+
+## Resume
+[Resume PDF Link Here]
+
+## Contact
+- LinkedIn
+- Email
