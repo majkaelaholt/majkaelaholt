@@ -12,10 +12,10 @@ This portfolio highlights coursework, projects, and analytical work focused on p
 - 🧠 Interested in problem solving, organization, and operational efficiency
 
 ## Projects
-Projects will be added here as they are completed.
+Capstone [case study](https://github.com/majkaelaholt/bellabeat-smart-device-analysis) project for Data Analysis.
 
-## [Resume](./Majkaela_Holt_Resume.pdf)
-View my resume for additional information about my experience, education, certifications, and technical skills.
+## Resume
+View my [resume](./Majkaela_Holt_Resume.pdf) for additional information about my experience, education, certifications, and technical skills.
 
 ## Contact
 - [LinkedIn](www.linkedin.com/in/majkaelaholt)
