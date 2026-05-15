@@ -1,6 +1,6 @@
 # Hi, I'm Mak 👋
 
-I'm an Administrative Fleet Coordinator in the trucking industry with experience in transportation operations, compliance, and documentation management. Currently studying Supply Chain & Operations Management while developing technical skills in R, SQL, and data visualization.
+I'm an Administrative Fleet Coordinator in the trucking industry with experience in transportation operations, compliance, and documentation management. Currently studying Supply Chain & Operations Management and developing technical skills in R, SQL, and data visualization.
 
 This portfolio highlights coursework, projects, and analytical work focused on problem-solving, reporting, and operational efficiency.
 
@@ -10,14 +10,13 @@ This portfolio highlights coursework, projects, and analytical work focused on p
 - 📚 Studying Supply Chain & Operations Management
 - 📊 Learning R, SQL, and data visualization through coursework and projects
 - 🧠 Interested in problem solving, organization, and operational efficiency
-- 🎮 Gamer and longtime fan of story-driven and simulation games
 
 ## Projects
-### None yet :)
+Projects will be added here as they are completed.
 
-## Resume
-[Resume PDF Link Here]
+## [Resume](./Majkaela_Holt_Resume.pdf)
+View my resume for additional information about my experience, education, certifications, and technical skills.
 
 ## Contact
-- LinkedIn
-- Email
+- [LinkedIn](www.linkedin.com/in/majkaelaholt)
+- Email: majkaelaholt@gmail.com
